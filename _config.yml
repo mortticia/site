@@ -1,6 +1,6 @@
 # Site settings
 title: Mortticia
-description: 'Mortticia - uma banda do caralho'
+description: 'True heavy metal to the modern world'
 url: 'http://mortticia.xyz'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -10,9 +10,7 @@ author:
   name: 'Mortticia'
   email: mortticia@mortticia.xyz
   twitter_username: mortticiaPOA
-  facebook_username: m
-  github_username:  m
-  linkedin_username: m
+  facebook_username: MortticiaPOA
 
 defaults:
   -

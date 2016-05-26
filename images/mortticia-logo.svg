@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="160"
+   viewBox="0 0 600 160"
+   id="svg3503"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mortticia-logo.svg">
+  <defs
+     id="defs3505" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="305.76484"
+     inkscape:cy="239.43017"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata3508">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-892.36214)">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 159.74216,917.90405 -70.377705,70.34448 0,15.02407 59.764675,-59.76465 0,24.9738 24.94063,-24.94063 0,45.37075 10.61304,10.61305 0,-8.39096 c 7.31047,8.39006 18.05904,13.69744 30.01505,13.69744 12.53049,0 23.74337,-5.82718 31.04313,-14.92455 l 9.61796,9.61807 0,-31.20895 44.01099,44.01093 0,-14.99088 -36.51543,-36.5155 29.74962,0 0,-25.00697 10.57992,0 0,80.39365 10.61304,10.613 0,-91.00665 10.57982,0 0,91.00665 10.61303,-10.613 0,-80.39365 17.64416,0 0,-10.61308 -21.22607,0 -24.64208,0 -14.16182,0 -47.85822,0 0,13.83007 c -7.30219,-8.4247 -18.07093,-13.79696 -30.04805,-13.79696 -11.96015,0 -22.70437,5.3598 -30.01505,13.76386 l 0,-21.09339 -24.94064,24.94063 z m 280.54895,0 0,71.00782 10.613,10.61305 0,-38.7044 17.27942,0 42.45201,42.45208 0,-15.02407 -70.34457,-70.34448 z m -83.84301,7.29642 0,63.7114 10.61304,10.61305 0,-74.32445 z m 14.42715,0 0,87.12643 51.17478,-51.17475 0,-14.9909 -40.56174,40.56171 0,-50.90941 40.56174,0 0,-10.61308 z m 54.98877,0 0,63.7114 10.61304,10.61305 0,-74.32445 z m -211.16618,10.64618 c 16.18095,0 29.18585,13.03799 29.18585,29.21908 0,16.18096 -13.0049,29.15259 -29.18585,29.15259 -16.18096,0 -29.18596,-12.97163 -29.18584,-29.15259 0,-16.18109 13.00488,-29.21908 29.18584,-29.21908 z m 40.66109,0 26.63214,0 0,14.3608 -26.63214,0 z m 195.54517,7.69447 6.66638,6.66633 -6.66638,0 z"
+       id="path3159"
+       sodipodi:nodetypes="cccccccccscccccccccccccccccccccccsccccccccccccccccccccccccccccccccsssssccccccccc"
+       inkscape:export-filename="/Users/Leonardo/Desktop/m.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>
