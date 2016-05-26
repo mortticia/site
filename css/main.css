@@ -47,10 +47,14 @@ pre.highlight code,
 }
 
 .user-image {
-  /*margin-bottom: 1.2em;*/
   position: relative;
-  /*width: 300px;
-  height: 300px;*/
-  /*border: 3px solid #fff;*/
-  /*border-radius:100%;*/
+  width: inherit;
+}
+
+a.open img.band-logo {
+  width: 90%;
+}
+
+a.open img.user-image {
+  width: 70%;
 }

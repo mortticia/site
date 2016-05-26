@@ -8,10 +8,10 @@
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
-        <a href="{{ site.baseurl }}" title="link to home of {{ site.title }}">
+        <a href="{{ site.baseurl }}" id="logos" title="link to home of {{ site.title }}">
           <img src="{{ "images/mortticia-gray.png" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
-          <img src="{{ "images/mortticia-logo.svg" | prepend: site.baseurl }}">
-          
+          <img src="{{ "images/mortticia-logo.svg" | prepend: site.baseurl }}" class="band-logo" alt="{{site.title}}">
+
         </a>
         <hr class="panel-cover__divider">
         <p class="panel-cover__description">{{ site.description }}</p>
@@ -21,7 +21,7 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}#more" title="link to more about {{ site.title }}" class="blog-button">More ...</a></li>
             </ul>
           </nav>
 
