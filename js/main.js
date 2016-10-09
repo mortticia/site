@@ -23,12 +23,10 @@ $(document).ready(function () {
     }
   })
 
-  if (window.location.hash && window.location.hash == '#more') {
+  if ( !String(window.location).match(window.location.host + '/$') ) {
     $('.panel-cover').addClass('panel-cover--collapsed')
     $('a#logos').addClass('open')
-  }
-
-  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
+  } else {
     $('.panel-cover').removeClass('panel-cover--collapsed')
 
     $('a#logos').removeClass('open')
