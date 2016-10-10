@@ -1,14 +1,14 @@
 # Site settings
 title: Mortticia
 description: 'True heavy metal to the modern world'
-url: 'http://mortticia.xyz'
+url: 'http://mortticia.rocks'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Mortticia'
-  email: mortticia@mortticia.xyz
+  email: mortticia@mortticia.rocks
   twitter_username: mortticiaPOA
   facebook_username: MortticiaPOA
   lastfm_page: Mortticia
