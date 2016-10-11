@@ -3,6 +3,7 @@ title: "Origens: A história nunca contada da Mortticia"
 date:   2016-10-09 15:04:23
 categories: [mortticia, bio]
 tags: [nunca antes na historia]
+ogimg: http://mortticia.rocks/images/origens/TheBeginning0.png
 ---
 
 Olá, pessoal! Aqui quem vos fala é o [Guilherme](https://www.facebook.com/hw.guilherme), baixista-fundador da banda, vou contar para vocês um pouco mais sobre as origens da Mortticia.
