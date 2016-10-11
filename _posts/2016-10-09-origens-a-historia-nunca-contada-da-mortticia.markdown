@@ -10,7 +10,7 @@ ogdescription: "A banda surgiu em 2010 na cidade de Alegrete, no interior do est
 
 Olá, pessoal! Aqui quem vos fala é o [Guilherme](https://www.facebook.com/hw.guilherme), baixista-fundador da banda, vou contar para vocês um pouco mais sobre as origens da Mortticia.
 
-Hellgrete (2010 - 2012.1)
+I: Arising In Hellgrete (2010 - 2012.1)
 -------------------------
 
 A banda surgiu em 2010 na cidade de Alegrete, no interior do estado do Rio Grande do Sul. Formada, naquele momento, por dois estudantes de Ciência da Computação da Universidade Federal do Pampa, no caso, eu (baixo) e o João Paulo Aires (guitarra). Na época, focávamos em tocar covers de bandas como Judas Priest, Iron Maiden, Metallica, Black Sabbath... E promovíamos shows no Bar Hum, o único lugar na cidade onde havia espaço e se podia tocar para uma gurizada sedenta por esse tipo de música.
@@ -52,7 +52,12 @@ Mas era preciso, então, buscar novos membros para a banda. Obviamente o Bar Hum
 
 Em 2012, infelizmente, a banda é desfeita devido à saída do vocalista e por incompatibilidades de prioridades entre o João e eu. Quebramos os pratos, e, ainda em 2012, deixei Alegrete e vim tentar a vida na cidade grande, a capital.
 
-Purgatory On Porto Alegre (2012.2 - 2013.1)
+II: Purgatory In Porto Alegre (2012.2 - 2013.1)
 --------------------------------
 
-No final de 2012, já estruturado em Porto Alegre, recebo em minha humilde kitnet, vindo de Alegrete, um companheiro de outros tempos, Bruno Giacomelli (bateria), que estava, também, tentando se estabelecer na capital. Músico de mão cheia, havia me ajudado anteriormente em algumas composições e arranjos para a Mortticia. Compreensivelmente, com o tempo fomos amadurecendo a ideia de montar uma banda sólida e tocar por aí. Em 2013, ironicamente, o João veio morar em Porto Alegre. O Bruno também era próximo ao João nos tempos de Alegrete e, em pouco tempo, já estávamos fazendo algumas jams juntos, então, a ideia de formamos uma banda cresceu, porém, ainda faltava um guitarrista e um vocalista. Aonde achar? No próximo post conto para vocês.
+
+No final de 2012, já estruturado em Porto Alegre, recebo em minha humilde kitnet, vindo de Alegrete, um companheiro de outros tempos, Bruno Giacomelli (bateria), que estava, também, tentando se estabelecer na capital. Músico de mão cheia, havia me ajudado anteriormente em algumas composições e arranjos para a Mortticia. Compreensivelmente, com o tempo fomos amadurecendo a ideia de montar uma banda sólida e tocar por aí.
+
+![](/images/origens/TheBeginning4.png)
+
+ Em 2013, ironicamente, o João veio morar em Porto Alegre. O Bruno também era próximo ao João nos tempos de Alegrete e, em pouco tempo, já estávamos fazendo algumas jams juntos, então, a ideia de formamos uma banda cresceu, porém, ainda faltava um guitarrista e um vocalista. Aonde achar? No próximo post conto para vocês.
