@@ -29,9 +29,9 @@ Passada a primeira controvérsia da banda, era necessário reestruturar. Foi ent
 
 Na medida em que íamos tocando as músicas que gostávamos, sentíamos cada vez mais a necessidade de um segundo guitarrista. Foi assim que o Daniel (Boliviano) entrou na banda. Rapaz de bem com a vida, era um guitarrista canhoto dos bons, com um feeling Hard Rock, o que era uma boa contraposição ao João, guitarrista de Trash Metal, basicamente. Com essa formação, a consolidação do nosso trabalho parecia questão de tempo, Cada vez mais o João e eu nos entrosávamos para compor e, consequentemente, tínhamos melhores condições de tocar bem ao vivo. Prova disso foi a organização de alguns eventos, nos quais levávamos o pessoal à loucura. Mas, tristemente, o destino estava fadado. No meio de uma organização para tocarmos num festival na minha cidade natal, Ijuí, Fabiano decide abandonar a banda, fazendo-nos cancelar a participação. Não obstante, tínhamos um show marcado em Alegrete em pouco tempo e precisávamos de um novo baterista rapidamente. Foi assim que o Bruninho apareceu. Surpreendentemente, ele assumiu as baquetas e, mesmo sendo guitarrista por formação, conseguiu tirar um set de mais de uma dúzia de músicas em pouquíssimo tempo  e saímos por cima.
 
-Depois disso, Adriano, que já estava dando sinais de que iria deixar a banda logo após o irmão, saiu de vez, sem maiores explicações. Boliviano foi deixado de lado – uma pena – estava sendo inconsequente e há um bom tempo não aparecia nos ensaios. Por mais que insistíssemos, não conseguíamos um engajamento por parte do rapaz.
-
 ![](/images/origens/TheBeginning2.png)
+
+Depois disso, Adriano, que já estava dando sinais de que iria deixar a banda logo após o irmão, saiu de vez, sem maiores explicações. Boliviano foi deixado de lado – uma pena – estava sendo inconsequente e há um bom tempo não aparecia nos ensaios. Por mais que insistíssemos, não conseguíamos um engajamento por parte do rapaz.
 
 ### Marcos, Filipe e a gravação de Killing & Dying
 
