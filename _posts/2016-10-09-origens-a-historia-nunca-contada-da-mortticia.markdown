@@ -3,7 +3,7 @@ title: "Origens: A história nunca contada da Mortticia"
 date:   2016-10-09 15:04:23
 categories: [mortticia, bio]
 tags: [nunca antes na historia]
-ogimage: http://mortticia.rocks/images/origens/TheBeginning1.png
+ogimage: "http://mortticia.rocks/images/origens/TheBeginning1.png"
 ogtitle: "Origens: A história nunca contada da Mortticia"
 ogdescription: "A banda surgiu em 2010 na cidade de Alegrete, no interior do estado do Rio Grande do Sul..."
 ---
