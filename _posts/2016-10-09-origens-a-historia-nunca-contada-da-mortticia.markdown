@@ -3,7 +3,9 @@ title: "Origens: A história nunca contada da Mortticia"
 date:   2016-10-09 15:04:23
 categories: [mortticia, bio]
 tags: [nunca antes na historia]
-ogimg: http://mortticia.rocks/images/origens/TheBeginning0.png
+ogimg: http://mortticia.rocks/images/origens/TheBeginning1.png
+ogtitle: "Origens: A história nunca contada da Mortticia"
+ogdescription: "A banda surgiu em 2010 na cidade de Alegrete, no interior do estado do Rio Grande do Sul."
 ---
 
 Olá, pessoal! Aqui quem vos fala é o [Guilherme](https://www.facebook.com/hw.guilherme), baixista-fundador da banda, vou contar para vocês um pouco mais sobre as origens da Mortticia.
