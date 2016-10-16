@@ -8,10 +8,8 @@ baseurl: '/'
 
 author:
   name: 'Mortticia'
-  email: mortticia@mortticia.rocks
   twitter_username: mortticiaPOA
   facebook_username: MortticiaPOA
-  lastfm_page: Mortticia
   youtube_channel: UCIFeUby17-fzxNXec4SFRUw
 
 defaults:
