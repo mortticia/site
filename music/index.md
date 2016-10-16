@@ -1,5 +1,6 @@
 ---
 layout: page
+head_title: Mortticia - Música
 title: Música
 ---
 
