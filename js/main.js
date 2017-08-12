@@ -2,7 +2,7 @@
 layout: null
 ---
 $(document).ready(function () {
-  $('a.blog-button').click(function (e) {
+  $('a.blog-button[href=\"/#more\"]').click(function (e) {
     // if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
 
     currentWidth = $('.panel-cover').width()
@@ -17,7 +17,7 @@ $(document).ready(function () {
 
       $('.panel-cover').css('max-width', currentWidth)
       $('.panel-cover').animate({'max-width': '530px', 'width': '40%'}, 400, swing = 'swing', function () {})
-
+// 
       $('a#logos').addClass('open')
 
     }

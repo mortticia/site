@@ -1,21 +1,15 @@
 ---
 layout: page
 head_title: Mortticia - Música
-title: Música
+title: Music
 ---
 
-Siga o a Mortticia no [Soundcloud](https://soundcloud.com/mortticia).
+### Hear My Words
 
-<iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/60421281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1899763305/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/track/hear-my-words">Hear My Words by Mortticia</a></iframe>
 
-## Teasers
+### Violence
 
-#### Hear My Words
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1910918610/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/track/violence">Violence by Mortticia</a></iframe>
 
-<iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287824666&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-
-#### Violence
-
-<iframe width="100%" height="250" src="https://www.youtube.com/embed/zQ_O-qW44DU" frameborder="0" allowfullscreen></iframe>
 

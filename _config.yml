@@ -23,6 +23,7 @@ defaults:
 
 # Build settings
 destination: _site
+paginate_path: "/blog/page:num/"
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
