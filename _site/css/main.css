@@ -58,3 +58,21 @@ a.open img.band-logo {
 a.open img.user-image {
   width: 70%;
 }
+
+.project {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.project a {
+  font-size: 150%;
+  color: #000;
+}
+
+.project a:hover {
+  color: #800;
+}
+
+.project-name {
+  padding-top: 0.5em;
+}
