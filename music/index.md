@@ -4,12 +4,8 @@ head_title: Mortticia - Música
 title: Music
 ---
 
-### Hear My Words
+#### Existence / Resistance EP (Demo)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1899763305/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/track/hear-my-words">Hear My Words by Mortticia</a></iframe>
 
-### Violence
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1910918610/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/track/violence">Violence by Mortticia</a></iframe>
-
+<iframe style="border: 0; width: 450px; height: 655px;" src="https://bandcamp.com/EmbeddedPlayer/album=1608686342/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/album/existence-resistence-demo">Existence / Resistence (Demo) by Mortticia</a></iframe>
 
