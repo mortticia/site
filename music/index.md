@@ -4,12 +4,10 @@ head_title: Mortticia - Música
 title: Music
 ---
 
-### Hear My Words
+Our demo EP can be bought and streamed in [Bandcamp](https://mortticia.bandcamp.com/releases) and several other platforms:
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1899763305/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/track/hear-my-words">Hear My Words by Mortticia</a></iframe>
+<div style="display:block;overflow:hidden;height:800px;">
+<iframe style="border: 0; width: 100%; height: 800px;margin-top:-80px;" scrolling="no" src="https://artist.landr.com/music/800739408708" seamless><a href="https://artist.landr.com/music/800739408708">Mortticia streams</a></iframe>
+</div>
 
-### Violence
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1910918610/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mortticia.bandcamp.com/track/violence">Violence by Mortticia</a></iframe>
-
-
+Thanks, you're awesome!
