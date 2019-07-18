@@ -10,6 +10,7 @@ author:
   name: 'Mortticia'
   email: hello@mortticia.rocks
   twitter_username: mortticiaPOA
+  instagram_username: mortticiapoa
   facebook_username: MortticiaPOA
   youtube_channel: UCIFeUby17-fzxNXec4SFRUw
 
@@ -25,7 +26,7 @@ defaults:
 destination: _site
 paginate_path: "/blog/page:num/"
 paginate: 10
-permalink: /:year/:title/
+permalink: /:year-:month-:day/:title/
 markdown: kramdown
 highlighter: rouge
 
