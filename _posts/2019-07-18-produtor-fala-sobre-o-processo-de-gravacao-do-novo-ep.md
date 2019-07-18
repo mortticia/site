@@ -5,7 +5,7 @@ categories: [mortticia, production, producer, recording, studio]
 tags: [production, producer, recording, studio]
 ogimage: "http://mortticia.rocks/images/producer/eric_nunes.jpg"
 ogtitle: "Produtor fala sobre o processo de gravação do novo EP"
-ogdescription: "A MORTTICIA está prestes a lançar seu novo trabalho, o EP \"A Light in the Black\"."
+ogdescription: A MORTTICIA está prestes a lançar seu novo trabalho, o EP "A Light in the Black".
 excerpt_separator: <!--more-->
 ---
 

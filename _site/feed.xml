@@ -3,10 +3,10 @@
   <channel>
     <title>Mortticia</title>
     <description>True heavy metal to the modern world</description>
-    <link>http://mortticia.rocks//</link>
-    <atom:link href="http://mortticia.rocks//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Jul 2019 01:21:08 -0300</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2019 01:21:08 -0300</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Jul 2019 01:34:57 -0300</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2019 01:34:57 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -23,8 +23,8 @@
 &lt;p&gt;No total serão seis músicas, três delas regravações da primeira demo, uma instrumental e duas inéditas. Eric explicou como tem funcionado o trabalho em estúdio: “Quando eles me apresentaram as músicas eu trouxe a opção de nós fazermos uma pré-produção, onde produziríamos tudo antecipadamente (como se fosse uma demo) para podermos discutir durante esse processo, então eles aceitaram e passamos quase um ano produzindo, foram várias faixas gravadas e apagadas, várias ideias que vieram durante esse processo que foram mudadas nesse tempo. Porém, acredito que com esse formato de trabalho todos estão concordando com o resultado final, e na minha opinião, estamos fazendo um trabalho muito bom!”.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Jul 2019 21:54:23 -0300</pubDate>
-        <link>http://mortticia.rocks//2019/produtor-fala-sobre-o-processo-de-gravacao-do-novo-ep/</link>
-        <guid isPermaLink="true">http://mortticia.rocks//2019/produtor-fala-sobre-o-processo-de-gravacao-do-novo-ep/</guid>
+        <link>http://localhost:4000//2019/produtor-fala-sobre-o-processo-de-gravacao-do-novo-ep/</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/produtor-fala-sobre-o-processo-de-gravacao-do-novo-ep/</guid>
         
         <category>production</category>
         
@@ -101,8 +101,8 @@
 &lt;p&gt;Em 2013, ironicamente, o João veio morar em Porto Alegre. O Bruno também era próximo ao João nos tempos de Alegrete e, em pouco tempo, já estávamos fazendo algumas jams juntos, então, a ideia de formamos uma banda cresceu, porém, ainda faltava um guitarrista e um vocalista. Aonde achar? No próximo post conto para vocês.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Oct 2016 12:04:23 -0300</pubDate>
-        <link>http://mortticia.rocks//2016/origens-a-historia-nunca-contada-da-mortticia/</link>
-        <guid isPermaLink="true">http://mortticia.rocks//2016/origens-a-historia-nunca-contada-da-mortticia/</guid>
+        <link>http://localhost:4000//2016/origens-a-historia-nunca-contada-da-mortticia/</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/origens-a-historia-nunca-contada-da-mortticia/</guid>
         
         <category>nunca antes na historia</category>
         
