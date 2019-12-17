@@ -1,7 +1,7 @@
 ---
 layout: page
 head_title: Mortticia - Videos
-title: Video
+title: Videos
 ---
 
 <div class="video-container">
